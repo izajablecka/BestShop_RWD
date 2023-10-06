@@ -1,0 +1,14 @@
+@import "../variables";
+@import "../utils/functions";
+
+.logo {
+  font-size: px-to-rem(32px);
+  color: rgba(8, 166, 228, 1);
+  font-family: "Raleway Light", sans-serif;
+  font-weight: 300;
+  display: inline-block;
+  text-decoration: none;
+  padding-top: 17px;
+  padding-bottom: 16px;
+
+}
