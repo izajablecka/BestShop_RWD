@@ -1,0 +1,51 @@
+@import "../utils/mixins";
+@import "../utils/functions";
+@import "../variables";
+
+.items {
+
+  .item {
+    @include flex(center, center, wrap);
+    width: 100%;
+    flex-direction: column;
+    margin-top: px-to-rem(25px);
+    margin-bottom: 0;
+    .graph {
+      display: flex;
+      position: relative;
+      &__circle{
+        width: px-to-rem(62.71px);
+        height: px-to-rem(62.71px);
+        background-color: gray;
+        border-radius: 50%;
+      }
+      &__img {
+        position: absolute;
+        left: px-to-rem(31.355px);
+        margin-top: px-to-rem(3px);
+        margin-bottom: 0;
+      }
+    }
+    &__hdl {
+      display: flex;
+      position: relative;
+      margin-top: px-to-rem(14.18px);
+      margin-bottom: 0;
+      font-family: "Raleway Regular", sans-serif;
+      letter-spacing: px-to-rem(5.96px);
+      color: $font-color;
+      font-size: px-to-rem(20px)
+
+    }
+    &__dsc {
+      display: flex;
+      position: relative;
+      margin-top: px-to-rem(19.11px);
+      margin-bottom: 0;
+      color: rgba(165, 165, 165, 1);
+      font-size: px-to-rem(17px);
+      font-weight: 400;
+      font-family: "Raleway", sans-serif;
+    }
+  }
+}
