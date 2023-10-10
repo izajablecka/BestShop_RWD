@@ -12,9 +12,11 @@
     font-family: "Raleway", sans-serif;
     font-weight: 400;
     font-size: px-to-rem(30px);
+    margin-inline: auto;
     margin-top: px-to-rem(50px);
     margin-bottom: 0;
     text-align: center;
+    padding-inline: px-to-rem(60px);
   }
 
 }
