@@ -2,6 +2,7 @@
 @import "../variables";
 @import "../utils/functions";
 
+
 .pricing__boxes {
   .frame {
     @include flex(center, center);
@@ -10,30 +11,90 @@
     height: px-to-rem(251px);
     width: 100%;
     position: relative;
+    padding: px-to-rem(11px);
+
+    &:hover {
+      transform: scale(1.1);
+      transition: all 200ms ease-in-out;
+      box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px);
+    }
+
     &__basic {
       border: px-to-rem(1px) solid $red-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) $red-color-shadow;
+
+      }
     }
     &__professional {
       border: px-to-rem(1px) solid $base-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) $blue-shadow;
+      }
     }
     &__premium {
       border: px-to-rem(1px) solid $green-color;
+      &:hover {
+        box-shadow: px-to-rem(5px) px-to-rem(10px) px-to-rem(27px) $green-shadow;
+        opacity: 1;
+      }
     }
-    &__dsc {
-      &__offer {}
-      &__price {}
+    .dsc {
+      @include flex(center,center);
+      flex-direction: column;
+      &__offer {
+        font-family: "Raleway, Bold",sans-serif;
+        font-size: px-to-rem(20px);
+        font-weight: 700;
+        color: $base-font-size;
+        margin-bottom: 0;
+      }
+
+      &__price {
+        font-size: px-to-rem(46px);
+        font-family: " Open Sans", sans-serif;
+        font-weight: 300;
+        &--red{
+          color:$red-color;
+        }
+        &--blue{
+          color:$base-color;
+        }
+        &--green{
+          color:$green-color;
+        }
+      }
+
+      &__limited {
+        font-family: 'Raleway', sans-serif;
+        font-size: px-to-rem(12px);
+        font-weight: 700;
+        color: $font-color;
+      }
     }
+
     .items {
       &__item {
-      }
+        font-family: "Open Sans", sans-serif;
+        font-size: px-to-rem(14px);
+        font-weight: 400;
+        list-style: none;
+        margin-bottom: px-to-rem(20px);
+        img {
+          margin-right: px-to-rem(10px);
+        }
+        }
     }
     &__btn {
       position: absolute;
-      left: px-to-rem(46px);
+      left: calc(50% - 75px);
       top: px-to-rem(225px);
       width: px-to-rem(150px);
       height: px-to-rem(50px);
       padding: px-to-rem(16px) px-to-rem(57px);
+      border-radius: px-to-rem(18px);
+      font-size: px-to-rem(13px);
+
       &--red {
         background-color: $red-color;
       }
@@ -46,13 +107,5 @@
     }
   }
 }
-
-
-
-
-
-
-
-
 
 

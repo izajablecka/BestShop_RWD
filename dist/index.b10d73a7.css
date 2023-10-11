@@ -657,29 +657,104 @@ html, body {
   width: 100%;
   height: 15.6875rem;
   margin-bottom: 4.1875rem;
+  padding: .6875rem;
   display: flex;
   position: relative;
+}
+
+.pricing__boxes .frame:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+  box-shadow: .3125rem .625rem 1.6875rem;
 }
 
 .pricing__boxes .frame__basic {
   border: .0625rem solid #fb3b64;
 }
 
+.pricing__boxes .frame__basic:hover {
+  box-shadow: .3125rem .625rem 1.6875rem #feebef;
+}
+
 .pricing__boxes .frame__professional {
   border: .0625rem solid #08a6e4;
+}
+
+.pricing__boxes .frame__professional:hover {
+  box-shadow: .3125rem .625rem 1.6875rem #07ace629;
 }
 
 .pricing__boxes .frame__premium {
   border: .0625rem solid #55dfb4;
 }
 
+.pricing__boxes .frame__premium:hover {
+  opacity: 1;
+  box-shadow: .3125rem .625rem 1.6875rem #ccf5e8;
+}
+
+.pricing__boxes .frame .dsc {
+  flex-direction: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.pricing__boxes .frame .dsc__offer {
+  color: 16px;
+  margin-bottom: 0;
+  font-family: Raleway\, Bold, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.pricing__boxes .frame .dsc__price {
+  font-family:  Open Sans, sans-serif;
+  font-size: 2.875rem;
+  font-weight: 300;
+}
+
+.pricing__boxes .frame .dsc__price--red {
+  color: #fb3b64;
+}
+
+.pricing__boxes .frame .dsc__price--blue {
+  color: #08a6e4;
+}
+
+.pricing__boxes .frame .dsc__price--green {
+  color: #55dfb4;
+}
+
+.pricing__boxes .frame .dsc__limited {
+  color: #000;
+  font-family: Raleway, sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+}
+
+.pricing__boxes .frame .items__item {
+  margin-bottom: 1.25rem;
+  font-family: Open Sans, sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  list-style: none;
+}
+
+.pricing__boxes .frame .items__item img {
+  margin-right: .625rem;
+}
+
 .pricing__boxes .frame__btn {
+  border-radius: 1.125rem;
   width: 9.375rem;
   height: 3.125rem;
   padding: 1rem 3.5625rem;
+  font-size: .8125rem;
   position: absolute;
   top: 14.0625rem;
-  left: 2.875rem;
+  left: calc(50% - 75px);
 }
 
 .pricing__boxes .frame__btn--red {

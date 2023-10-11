@@ -1,4 +1,4 @@
-6049
+6055
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\src\misc.cpp133410515678278243 0
 107C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133410515661834870 0
 78C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\resolver-default\lib133410515650902877 1
@@ -6,7 +6,7 @@
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\plugins\removeUselessDefs.js133410515673716916 0
 78C:\Users\izjab\projects\BestShop_rwd\node_modules\source-map\lib\quick-sort.js133410515659690579 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\cjs\_to_primitive.cjs133410515677048159 0
-73C:\Users\izjab\projects\BestShop_rwd\src\scss\components\pricing_box.scss133414489250544026 0
+73C:\Users\izjab\projects\BestShop_rwd\src\scss\components\pricing_box.scss133414983906013208 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\CR.js133410515681563267 0
 111C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\index.js133410515675408865 0
 59C:\Users\izjab\projects\BestShop_rwd\src\images\iPhone2.png133414057019872940 0
@@ -24,9 +24,7 @@
 54C:\Users\izjab\projects\BestShop_rwd\package-lock.json133410754631124628 0
 73C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml\lib\type\str.js133410515668406854 0
 70C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\lib\compress.js133410515674591369 0
-73C:\Users\izjab\projects\BestShop_rwd\src\scss\layout\pricing_section.scss133414469380921024 0
-106C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js133410515693627137 0
-74C:\Users\izjab\projects\BestShop_rwd\node_modules\abortcontroller-polyfill133410515662395563 1
+73C:\Users\izjab\projects\BestShop_rwd\src\scss\layout\pricing_section.scss133414948064569320 0
 73C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\functions\inc.js133410515663881907 0
 59C:\Users\izjab\projects\BestShop_rwd\node_modules\@mischnic133410515623391512 1
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_new_arrow_check.mjs133410515698315881 0
@@ -42,7 +40,7 @@
 98C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\permissions-policy.js133410515712355031 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\lightningcss\node\index.js.flow133410515656782732 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\SZ.js133410515719187583 0
-41C:\Users\izjab\projects\BestShop_rwd\dist133414490395529432 1
+41C:\Users\izjab\projects\BestShop_rwd\dist133414983911313530 1
 98C:\Users\izjab\projects\BestShop_rwd\node_modules\@babel\highlight\node_modules\has-flag\readme.md133410515653623936 0
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\convertor\index.js133410515689964183 0
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\preload.js133410515669073554 0
@@ -64,10 +62,10 @@
 95C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\input-inputmode.js133410515703647273 0
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\lexer\structure.cjs133410515680865403 0
 112C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\convertor133410515675014284 1
-42C:\Users\izjab\projects\BestShop_rwd\.idea133414488356416694 1
+42C:\Users\izjab\projects\BestShop_rwd\.idea133414982436421880 1
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\source-map-js\lib133410515661373545 1
 65C:\Users\izjab\projects\BestShop_rwd\src\images\Background@2x.png133414057019416533 0
-47C:\Users\izjab\projects\BestShop_rwd\index.html133414490394087424 0
+47C:\Users\izjab\projects\BestShop_rwd\index.html133414947245643464 0
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\webusb.js133410515724407033 0
 70C:\Users\izjab\projects\BestShop_rwd\node_modules\nullthrows\README.md133410515656312733 0
 106C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js133410515651552431 0
@@ -80,16 +78,6 @@
 90C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\mdn-data\l10n\index.js133410515656157540 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\core\src\utils.js133410515689415650 0
 49C:\Users\izjab\projects\BestShop_rwd\node_modules133410591461240140 1
-101C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\extended-system-fonts.js133410515698737283 0
-73C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\bundler-default133410515656112153 1
-63C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib\svgo133410515677347960 1
-80C:\Users\izjab\projects\BestShop_rwd\node_modules\immutable\dist\immutable.es.js133410515656493078 0
-79C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\cjs\_type_of.cjs133410515677800582 0
-119C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic.js133410515673912168 0
-58C:\Users\izjab\projects\BestShop_rwd\node_modules\argparse133410515658925184 1
-92C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\transforms3d.js133410515721068732 0
-67C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\core\util.js133410515656762806 0
-58C:\Users\izjab\projects\BestShop_rwd\node_modules\anymatch133410515654387667 1
 62C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite133410515725917108 1
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\dom-serializer133410515661222925 1
 103C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133410515691424405 0
@@ -105,7 +93,7 @@
 70C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib\svgo\coa.js133410515663096648 0
 128C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133410515691252914 1
 46C:\Users\izjab\projects\BestShop_rwd\README.md133410513010979567 0
-56C:\Users\izjab\projects\BestShop_rwd\src\scss\components133414489250553997 1
+56C:\Users\izjab\projects\BestShop_rwd\src\scss\components133414983906023160 1
 91C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-opacity.js133410515691147223 0
 107C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\index.js133410515653128243 0
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133410515693151577 0
@@ -115,7 +103,7 @@
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\lib\sort.d.ts133410515677896640 0
 61C:\Users\izjab\projects\BestShop_rwd\node_modules\htmlparser2133410515661434835 1
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\lib\sort.js.map133410515674363066 0
-45C:\Users\izjab\projects\BestShop_rwd\src\scss133414433124490507 1
+45C:\Users\izjab\projects\BestShop_rwd\src\scss133414983621715301 1
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\meta-theme-color.js133410515707928527 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\normalize.css\normalize.css133410591459911712 0
 59C:\Users\izjab\projects\BestShop_rwd\node_modules\callsites133410515654387667 1
@@ -134,7 +122,7 @@
 106C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133410515659597364 0
 98C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133410515675125085 0
 128C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\pseudos.js133410515660567824 0
-47C:\Users\izjab\projects\BestShop_rwd\src\images133414409195614779 1
+47C:\Users\izjab\projects\BestShop_rwd\src\images133414937240391842 1
 46C:\Users\izjab\projects\BestShop_rwd\src\fonts133410585173876295 1
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\node_modules\msgpackr\unpack.js133410515666648931 0
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133410515682516079 0
@@ -154,7 +142,7 @@
 112C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\css.json133410515660302455 0
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-image\package.json133410515655841491 0
 100C:\Users\izjab\projects\BestShop_rwd\node_modules\posthtml\node_modules\posthtml-parser\package.json133410515655474194 0
-52C:\Users\izjab\projects\BestShop_rwd\src\scss\layout133414469380921024 1
+52C:\Users\izjab\projects\BestShop_rwd\src\scss\layout133414948064579052 1
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\SN.js133410515717397233 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\cosmiconfig\dist\index.d.ts133410515667516903 0
 55C:\Users\izjab\projects\BestShop_rwd\src\scss\main.scss133414433124460536 0
@@ -180,7 +168,7 @@
 104C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133410515675075249 0
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\classes\semver.js133410515670770470 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\source-map-js\lib\base64.js133410515653731772 0
-60C:\Users\izjab\projects\BestShop_rwd\src\scss\variables.scss133414409195751746 0
+60C:\Users\izjab\projects\BestShop_rwd\src\scss\variables.scss133414983621705343 0
 98C:\Users\izjab\projects\BestShop_rwd\node_modules\electron-to-chromium\full-chromium-versions.json133410515660237621 0
 112C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\_\_class_check_private_static_access\package.json133410515690650360 0
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\dist\unpacker\agents.js133410515662127043 0
@@ -231,6 +219,10 @@
 112C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133410515680739204 0
 104C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\domutils\lib\esm\querying.d.ts133410515674526876 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb-data-v1133410515649987716 1
+85C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-babel\README.md133410515665771204 0
+57C:\Users\izjab\projects\BestShop_rwd\src\images\Close.svg133414917501844728 0
+81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\SV.js133410515718453515 0
+69C:\Users\izjab\projects\BestShop_rwd\node_modules\color-name\index.js133410515650954721 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\VU.js133410515723014755 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\entities\lib\maps\entities.json133410515660735245 0
 75C:\Users\izjab\projects\BestShop_rwd\src\scss\components\statistic_bar.scss133414058998542368 0
@@ -254,6 +246,23 @@
 91C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js133410515653053411 0
 121C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-class-list.js133410515666925472 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\cjs\restructure\utils.cjs133410515670459571 0
+63C:\Users\izjab\projects\BestShop_rwd\src\images\Checkmark-1.svg133414917489555588 0
+89C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\syntax\node\index-parse.js133410515690190479 0
+66C:\Users\izjab\projects\BestShop_rwd\node_modules\stable\stable.js133410515653396044 0
+61C:\Users\izjab\projects\BestShop_rwd\src\images\Checkmark.svg133414917520252240 0
+78C:\Users\izjab\projects\BestShop_rwd\node_modules\weak-lru-cache\tests\test.js133410515656822630 0
+84C:\Users\izjab\projects\BestShop_rwd\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133410515658202955 0
+78C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\utils\ident.cjs133410515673424352 0
+69C:\Users\izjab\projects\BestShop_rwd\node_modules\type-fest\base.d.ts133410515657005109 0
+62C:\Users\izjab\projects\BestShop_rwd\src\images\Phone Icon.svg133414057019736823 0
+83C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\reporter-cli\package.json133410515662415679 0
+92C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\syntax\function\expression.js133410515689511884 0
+69C:\Users\izjab\projects\BestShop_rwd\node_modules\picomatch\README.md133410515660442878 0
+62C:\Users\izjab\projects\BestShop_rwd\node_modules\resolve-from133410515653223264 1
+98C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133410515694104831 0
+83C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\generator\create.cjs133410515666375892 0
+73C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml\dist\js-yaml.js133410515663515183 0
+63C:\Users\izjab\projects\BestShop_rwd\src\images\Ckechmark-1.svg133414917530138198 0
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\core-win32-x64-msvc\package.json133410515649828567 0
 55C:\Users\izjab\projects\BestShop_rwd\src\images\Eye.svg133414057019502516 0
 89C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\esm\_async_to_generator.js133410515679280863 0
@@ -298,9 +307,6 @@
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-postcss\src\loadPlugins.js133410515657735718 0
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\xxhash-wasm\package.json133410515654810279 0
 63C:\Users\izjab\projects\BestShop_rwd\src\images\Macbook2@2x.png133414057019651106 0
-78C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\utils\ident.cjs133410515673424352 0
-69C:\Users\izjab\projects\BestShop_rwd\node_modules\type-fest\base.d.ts133410515657005109 0
-62C:\Users\izjab\projects\BestShop_rwd\src\images\Phone Icon.svg133414057019736823 0
 113C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\atrule133410515670125006 1
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\PS.js133410515713848435 0
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\utils\src\escape-html.js133410515665641021 0
@@ -344,6 +350,8 @@
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\DM.js133410515695548297 0
 111C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\package.json133410515662576765 0
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib\types.ts133410515677810516 0
+106C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js133410515693627137 0
+74C:\Users\izjab\projects\BestShop_rwd\node_modules\abortcontroller-polyfill133410515662395563 1
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\plugin\src\PluginAPI.d.ts133410515655911300 0
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\plugins\addClassesToSVGElement.js133410515658333724 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\is-arrayish\.istanbul.yml133410515656232732 0
@@ -352,6 +360,16 @@
 108C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator133410515680993100 1
 61C:\Users\izjab\projects\BestShop_rwd\node_modules\ansi-styles133410515654465319 1
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\node_modules\msgpackr\SECURITY.md133410515672907716 0
+67C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\core\util.js133410515656762806 0
+58C:\Users\izjab\projects\BestShop_rwd\node_modules\anymatch133410515654387667 1
+101C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\extended-system-fonts.js133410515698737283 0
+73C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\bundler-default133410515656112153 1
+63C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib\svgo133410515677347960 1
+80C:\Users\izjab\projects\BestShop_rwd\node_modules\immutable\dist\immutable.es.js133410515656493078 0
+79C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\cjs\_type_of.cjs133410515677800582 0
+119C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic.js133410515673912168 0
+58C:\Users\izjab\projects\BestShop_rwd\node_modules\argparse133410515658925184 1
+92C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\transforms3d.js133410515721068732 0
 106C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133410515651108691 0
 104C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133410515669747757 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\AR.js133410515668231158 0
@@ -438,7 +456,6 @@
 120C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\lang.js133410515676855412 0
 69C:\Users\izjab\projects\BestShop_rwd\node_modules\picocolors\types.ts133410515657145677 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133410515660693748 0
-74C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-sass133410515654055037 1
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\srcset\readme.md133410515653490915 0
 79C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\scripts\build.js133410515689405635 0
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\core\lib133410515689684234 1
@@ -456,8 +473,6 @@
 119C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Ratio.js133410515679702982 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\lines-and-columns\README.md133410515653781861 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\readdirp\README.md133410515653781861 0
-79C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\create.js133410515688548705 0
-96C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_private_field_init.mjs133410515697111251 0
 123C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.schema.json133410515667024252 0
 85C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\fetch.js133410515699006978 0
 134C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133410515678642973 0
@@ -561,11 +576,11 @@
 72C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\cjs\clean\Raw.cjs133410515669008155 0
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\domcontentloaded.js133410515697081270 0
 69C:\Users\izjab\projects\BestShop_rwd\node_modules\term-size\readme.md133410515659110309 0
-120C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133410515681148992 0
-59C:\Users\izjab\projects\BestShop_rwd\node_modules\is-number133410515653168250 1
-99C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133410515663158467 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\cjs\replace\Percentage.cjs133410515668547017 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\msgpackr\dist\index-no-eval.min.js133410515660643547 0
+120C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133410515681148992 0
+99C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133410515663158467 0
+59C:\Users\izjab\projects\BestShop_rwd\node_modules\is-number133410515653168250 1
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types\value133410515679683086 1
 57C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml133410515669509337 1
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\FJ.js133410515699387443 0
@@ -688,12 +703,6 @@
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\plugins\removeElementsByAttr.js133410515671176662 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_create_super.mjs133410515697470088 0
 69C:\Users\izjab\projects\BestShop_rwd\node_modules\regenerator-runtime133410515654695401 1
-83C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\reporter-cli\package.json133410515662415679 0
-92C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\syntax\function\expression.js133410515689511884 0
-69C:\Users\izjab\projects\BestShop_rwd\node_modules\picomatch\README.md133410515660442878 0
-62C:\Users\izjab\projects\BestShop_rwd\node_modules\resolve-from133410515653223264 1
-98C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133410515694104831 0
-83C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\generator\create.cjs133410515666375892 0
 61C:\Users\izjab\projects\BestShop_rwd\node_modules\safe-buffer133410515654730397 1
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133410515692399969 0
 94C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133410515656007085 0
@@ -827,10 +836,6 @@
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\xxhash-wasm\umd\xxhash-wasm.js133410515653634501 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\msgpackr\dist\test.js.map133410515672498073 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\mdn-data\css\units.schema.json133410515668100151 0
-78C:\Users\izjab\projects\BestShop_rwd\node_modules\weak-lru-cache\tests\test.js133410515656822630 0
-84C:\Users\izjab\projects\BestShop_rwd\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133410515658202955 0
-89C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\syntax\node\index-parse.js133410515690190479 0
-66C:\Users\izjab\projects\BestShop_rwd\node_modules\stable\stable.js133410515653396044 0
 118C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133410515653223264 0
 102C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133410515693451363 0
 102C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\syntax\node\String.js133410515692488597 0
@@ -912,10 +917,10 @@
 62C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\LICENSE133410515651677117 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\functions\minor.js133410515667711055 0
 59C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\dist133410515675388884 1
-81C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\sequence.js133410515692724535 0
-66C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\binding.gyp133410515679144925 0
-78C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_update.mjs133410515699357539 0
 72C:\Users\izjab\projects\BestShop_rwd\node_modules\mdn-data\l10n\index.js133410515656017065 0
+66C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\binding.gyp133410515679144925 0
+81C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\sequence.js133410515692724535 0
+78C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_update.mjs133410515699357539 0
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\stable\README.md133410515652181009 0
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\htmlnano\lib\modules\minifySvg.js133410515665081104 0
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\domhandler\lib\node.js133410515656922928 0
@@ -929,8 +934,8 @@
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133410515677367981 0
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\css-what\lib\es\index.js133410515653731772 0
 94C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\cjs\syntax\node\NestingSelector.cjs133410515678288136 0
-92C:\Users\izjab\projects\BestShop_rwd\node_modules\utility-types\dist\functional-helpers.d.ts133410515663565078 0
 101C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133410515669736756 0
+92C:\Users\izjab\projects\BestShop_rwd\node_modules\utility-types\dist\functional-helpers.d.ts133410515663565078 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\picocolors\LICENSE133410515649488150 0
 135C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133410515659490075 0
 94C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133410515677726993 0
@@ -1116,8 +1121,8 @@
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\type-fest\source\merge.d.ts133410515665771204 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\chalk\package.json133410515655871435 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\ES.js133410515698050372 0
-78C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\index.js133410515690383865 0
 112C:\Users\izjab\projects\BestShop_rwd\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133410515654055037 0
+78C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\index.js133410515690383865 0
 79C:\Users\izjab\projects\BestShop_rwd\node_modules\type-fest\source\mutable.d.ts133410515666149082 0
 89C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\_\_tagged_template_literal133410515694609668 1
 62C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib133410515693913079 1
@@ -1215,8 +1220,8 @@
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\mdn-data\css\selectors.json133410515665771204 0
 105C:\Users\izjab\projects\BestShop_rwd\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133410515673968729 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\TV.js133410515721305199 0
-73C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types\compile.d.ts133410515677760631 0
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\plugins\removeXMLProcInst.js133410515674276294 0
+73C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types\compile.d.ts133410515677760631 0
 101C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133410515697177825 0
 58C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\lib133410515678788613 1
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\av1.js133410515671950349 0
@@ -1310,9 +1315,9 @@
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\link-rel-preload.js133410515706204116 0
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\supports-color\readme.md133410515654730397 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\picomatch\index.js133410515652845684 0
+74C:\Users\izjab\projects\BestShop_rwd\node_modules\term-size\vendor\windows133410515656052246 1
 125C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\index.js133410515676395946 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types\exception.d.ts133410515677876708 0
-74C:\Users\izjab\projects\BestShop_rwd\node_modules\term-size\vendor\windows133410515656052246 1
 98C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133410515667466902 0
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\term-size\vendor\windows\term-size.exe133410515656533489 0
 97C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\entities\lib\index.d.ts133410515676030474 0
@@ -1320,7 +1325,7 @@
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\term-size\vendor\macos\term-size133410515654433119 0
 71C:\Users\izjab\projects\BestShop_rwd\node_modules\posthtml\node_modules133410515624004723 1
 93C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\lib\restructure\prepare\specificity.js133410515677961740 0
-58C:\Users\izjab\projects\BestShop_rwd\dist\Eye.3989fe90.svg133414488337838770 0
+58C:\Users\izjab\projects\BestShop_rwd\dist\Eye.3989fe90.svg133414969410157130 0
 58C:\Users\izjab\projects\BestShop_rwd\node_modules\svgo\lib133410515677750646 1
 104C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133410515674757840 0
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\lru-cache\LICENSE133410515649523347 0
@@ -1582,7 +1587,6 @@
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\domutils\lib\index.d.ts.map133410515661455330 0
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\entities133410515673308077 1
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\internal\debug.js133410515660693748 0
-60C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types133410515679376939 1
 111C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133410515688945558 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\msgpackr-extract\README.md133410515657590018 0
 71C:\Users\izjab\projects\BestShop_rwd\node_modules\semver\internal\re.js133410515669822743 0
@@ -1647,6 +1651,7 @@
 110C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\lib\definition-syntax\generate.js133410515689316416 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\sass.node.mjs133410515677025406 0
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\cosmiconfig\dist\ExplorerSync.js133410515653781861 0
+60C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types133410515679376939 1
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\cjs\clean\utils.cjs133410515670285485 0
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\sass\types\legacy133410515679442095 1
 108C:\Users\izjab\projects\BestShop_rwd\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133410515673500764 0
@@ -2197,7 +2202,7 @@
 67C:\Users\izjab\projects\BestShop_rwd\node_modules\is-glob\README.md133410515653965046 0
 58C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\bin133410515681713181 1
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\index.d.cts133410515678778654 0
-70C:\Users\izjab\projects\BestShop_rwd\dist\BestShop_rwd.3464ddca.js.map133414488337778688 0
+70C:\Users\izjab\projects\BestShop_rwd\dist\BestShop_rwd.3464ddca.js.map133414969409857715 0
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\index.js133410515681757152 0
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\level.js133410515682022641 0
 62C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\LICENSE133410515662680573 0
@@ -2332,9 +2337,6 @@
 100C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133410515679270904 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\definition-syntax133410515693965226 1
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133410515659025354 0
-103C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133410515726823561 0
-87C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\parse-selector.js133410515691899008 0
-83C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\lib\esm\compile.js.map133410515670035193 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\utils\src\sourcemap.js133410515676701713 0
 100C:\Users\izjab\projects\BestShop_rwd\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133410515679079400 0
 89C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\audio-api.js133410515670936387 0
@@ -2503,7 +2505,6 @@
 94C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\scrollintoview.js133410515716237463 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml\lib\schema\failsafe.js133410515659786246 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\TN.js133410515720700758 0
-73C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml\dist\js-yaml.js133410515663515183 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\js-yaml\dist\js-yaml.min.js133410515664336824 0
 79C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\esm\_inherits.js133410515687600175 0
 72C:\Users\izjab\projects\BestShop_rwd\node_modules\js-tokens\package.json133410515649576265 0
@@ -2751,7 +2752,7 @@
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\namer-default\lib133410515650934722 1
 86C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\_\_dispose\package.json133410515692639107 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\error-ex\README.md133410515653436418 0
-64C:\Users\izjab\projects\BestShop_rwd\dist\Macbook-2.3fb9de2a.png133414488337442300 0
+64C:\Users\izjab\projects\BestShop_rwd\dist\Macbook-2.3fb9de2a.png133414969409489102 0
 62C:\Users\izjab\projects\BestShop_rwd\node_modules\entities\lib133410515667645533 1
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\entities\readme.md133410515665394872 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\NE.js133410515710464142 0
@@ -3389,6 +3390,11 @@
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\node_modules\entities\lib\encode.js133410515662556840 0
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\utils\test\DefaultMap.test.js133410515664596450 0
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\syntax\atrule\supports.js133410515693025351 0
+79C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\create.js133410515688548705 0
+96C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_private_field_init.mjs133410515697111251 0
+103C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133410515726823561 0
+87C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\parse-selector.js133410515691899008 0
+83C:\Users\izjab\projects\BestShop_rwd\node_modules\css-select\lib\esm\compile.js.map133410515670035193 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\parser\SyntaxError.js133410515693191368 0
 77C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\lexer\error.js133410515689452026 0
 89C:\Users\izjab\projects\BestShop_rwd\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133410515689767133 0
@@ -3868,9 +3874,6 @@
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\commander\package-support.json133410515653578770 0
 82C:\Users\izjab\projects\BestShop_rwd\node_modules\.bin\download-lmdb-prebuilds.ps1133410515726792968 0
 72C:\Users\izjab\projects\BestShop_rwd\node_modules\commander\package.json133410515654770458 0
-85C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-babel\README.md133410515665771204 0
-81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\SV.js133410515718453515 0
-69C:\Users\izjab\projects\BestShop_rwd\node_modules\color-name\index.js133410515650954721 0
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\color-name\LICENSE133410515652337198 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\compressor-raw\src133410515652800425 1
 73C:\Users\izjab\projects\BestShop_rwd\node_modules\color-name\package.json133410515649859437 0
@@ -3930,8 +3933,8 @@
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features133410515725827352 1
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions133410515725857359 1
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\AF.js133410515660070982 0
-81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\AG.js133410515660607853 0
 73C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-svg133410515659285633 1
+81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\AG.js133410515660607853 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\AL.js133410515663036492 0
 85C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\alt-as.js133410515664461142 0
 85C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\regions\alt-na.js133410515665111060 0
@@ -4266,7 +4269,7 @@
 95C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-unset-value.js133410515693607180 0
 115C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser\create.js133410515667057924 0
 93C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-when-else.js133410515693667629 0
-61C:\Users\izjab\projects\BestShop_rwd\dist\Person.563280fd.svg133414488337658684 0
+61C:\Users\izjab\projects\BestShop_rwd\dist\Person.563280fd.svg133414969409718910 0
 96C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\css-writing-mode.js133410515693747818 0
 90C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\_\_ts_decorate\package.json133410515694787744 0
 121C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDC.js133410515661233453 0
@@ -4281,7 +4284,6 @@
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\utils\src\ansi-html.js133410515657249837 0
 91C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\customevent.js133410515694453064 0
 88C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\datalist.js133410515694599696 0
-88C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-react-refresh-wrap133410515658784782 1
 59C:\Users\izjab\projects\BestShop_rwd\.idea\BestShop_rwd.iml133410513017727761 0
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\dataset.js133410515694645037 0
 90C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\decorators.js133410515694833107 0
@@ -4348,7 +4350,7 @@
 87C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-svg\lib\inline.js133410515654433119 0
 100C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\input-file-directory.js133410515703601254 0
 99C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\input-file-multiple.js133410515703627264 0
-65C:\Users\izjab\projects\BestShop_rwd\dist\Background.fa568766.png133414488337553487 0
+65C:\Users\izjab\projects\BestShop_rwd\dist\Background.fa568766.png133414969409538887 0
 95C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\input-minlength.js133410515703667238 0
 91C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_to_consumable_array.mjs133410515699068619 0
 92C:\Users\izjab\projects\BestShop_rwd\node_modules\caniuse-lite\data\features\input-number.js133410515703697152 0
@@ -4522,7 +4524,7 @@
 68C:\Users\izjab\projects\BestShop_rwd\node_modules\boolbase\README.md133410515650747487 0
 66C:\Users\izjab\projects\BestShop_rwd\node_modules\anymatch\LICENSE133410515649508211 0
 95C:\Users\izjab\projects\BestShop_rwd\node_modules\binary-extensions\binary-extensions.json.d.ts133410515656222476 0
-62C:\Users\izjab\projects\BestShop_rwd\dist\Catalog.38200805.svg133414488337658684 0
+62C:\Users\izjab\projects\BestShop_rwd\dist\Catalog.38200805.svg133414969409718910 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\binary-extensions\index.js133410515650777483 0
 75C:\Users\izjab\projects\BestShop_rwd\node_modules\binary-extensions\license133410515649508211 0
 80C:\Users\izjab\projects\BestShop_rwd\node_modules\binary-extensions\package.json133410515653396044 0
@@ -4705,7 +4707,7 @@
 95C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133410515673022880 0
 110C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133410515697306387 0
 107C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133410515697316410 0
-63C:\Users\izjab\projects\BestShop_rwd\dist\iPhone-2.818270d0.png133414488337432404 0
+63C:\Users\izjab\projects\BestShop_rwd\dist\iPhone-2.818270d0.png133414969409362560 0
 105C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133410515697370541 0
 103C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133410515697380500 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\@swc\helpers\src\_create_class.mjs133410515697410427 0
@@ -4869,6 +4871,8 @@
 74C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-json133410515653877083 1
 78C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-posthtml133410515656513012 1
 73C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-raw133410515653781861 1
+88C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-react-refresh-wrap133410515658784782 1
+74C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\transformer-sass133410515654055037 1
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\types133410515656907842 1
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\utils133410515677750646 1
 65C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\watcher133410515657225531 1
@@ -5765,7 +5769,7 @@
 83C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\src\ContentGraph.js133410515659315554 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\src\Graph.js133410515661233453 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\src\index.js133410515662669313 0
-60C:\Users\izjab\projects\BestShop_rwd\dist\index.b10d73a7.css133414489256004765 0
+60C:\Users\izjab\projects\BestShop_rwd\dist\index.b10d73a7.css133414983911293590 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\src\shared-buffer.js133410515663475615 0
 76C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\lib\index.js133410515662298596 0
 84C:\Users\izjab\projects\BestShop_rwd\node_modules\@parcel\graph\lib\shared-buffer.js133410515663026196 0
@@ -6038,13 +6042,15 @@
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\.bin\sass.ps1133410515726812858 0
 63C:\Users\izjab\projects\BestShop_rwd\node_modules\.bin\svgo.ps1133410515726823561 0
 81C:\Users\izjab\projects\BestShop_rwd\node_modules\.bin\update-browserslist-db.ps1133410515726823561 0
-66C:\Users\izjab\projects\BestShop_rwd\dist\BestShop_rwd.3464ddca.js133414488337513620 0
+66C:\Users\izjab\projects\BestShop_rwd\dist\BestShop_rwd.3464ddca.js133414969409538887 0
+66C:\Users\izjab\projects\BestShop_rwd\dist\Ckechmark-1.bd599909.svg133414969410157130 0
+60C:\Users\izjab\projects\BestShop_rwd\dist\Close.e311fe8d.svg133414969409718910 0
 60C:\Users\izjab\projects\BestShop_rwd\dist\index.34df27b5.css133410569640878265 0
-64C:\Users\izjab\projects\BestShop_rwd\dist\index.b10d73a7.css.map133414489256044526 0
-52C:\Users\izjab\projects\BestShop_rwd\dist\index.html133414490395529432 0
+64C:\Users\izjab\projects\BestShop_rwd\dist\index.b10d73a7.css.map133414983911303562 0
+52C:\Users\izjab\projects\BestShop_rwd\dist\index.html133414969409718910 0
 63C:\Users\izjab\projects\BestShop_rwd\dist\Macbook2.6f8603fd.png133414409195519894 0
-62C:\Users\izjab\projects\BestShop_rwd\dist\Trumpet.019d5701.png133414488337432404 0
+62C:\Users\izjab\projects\BestShop_rwd\dist\Trumpet.019d5701.png133414969409322649 0
 53C:\Users\izjab\projects\BestShop_rwd\.idea\.gitignore133410513026071908 0
 50C:\Users\izjab\projects\BestShop_rwd\.idea\vcs.xml133410513018774000 0
 59C:\Users\izjab\projects\BestShop_rwd\.idea\watcherTasks.xml133410527158134959 0
-56C:\Users\izjab\projects\BestShop_rwd\.idea\workspace.xml133414488356393376 0
+56C:\Users\izjab\projects\BestShop_rwd\.idea\workspace.xml133414982436401844 0
