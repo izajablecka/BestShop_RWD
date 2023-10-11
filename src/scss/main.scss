@@ -16,6 +16,7 @@ html, body {
 @import "./layout/statistics_section";
 @import "./layout/benefits_section";
 @import "./layout/pricing_section";
+@import "./layout/questions_section";
 
 //components
 @import "./components/logo";
@@ -25,3 +26,4 @@ html, body {
 @import "./components/statistic_bar";
 @import "./components/benefits_box";
 @import "components/pricing_box";
+@import "components/questions_forms";
