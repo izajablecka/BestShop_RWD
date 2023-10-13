@@ -3,11 +3,11 @@
 @import "../variables";
 @import "../media_queries";
 
+
 .header {
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 px-to-rem(3px) px-to-rem(6px) #00000029;
   width: 100%;
   @include flex(center, center);
-
 
   &__inner {
     padding-inline: px-to-rem(25px);
@@ -17,7 +17,6 @@
     width: px-to-rem(1352px);
   }
 }
-    
 .intro {
   @include flex(center, center, wrap);
   flex-direction: column;
@@ -27,18 +26,19 @@
     font-size: px-to-rem(49px);
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    margin-top: px-to-rem(130px);
+    margin-top: px-to-rem(100px);
     margin-bottom: 0;
-
   }
-  &__dsc {
-    color: $font-color;
+  &__dsc{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    color: $font-color;
     margin-top: px-to-rem(20px);
     margin-bottom: 0;
+    padding-inline: px-to-rem(50px);
   }
   &__btn {
+    background-color: $base-color;
     padding: px-to-rem(22px) px-to-rem(92px) px-to-rem(23px) px-to-rem(92px);
     margin-top: px-to-rem(50px);
     margin-bottom: 0;
@@ -48,15 +48,14 @@
     margin-top: px-to-rem(51px);
     background-position: center;
     background-size: cover;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
 .btn {
   text-decoration: none;
-  background-color: $base-color;
   color: $btn-color;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans',sans-serif;
   font-weight: 700;
   border-radius: px-to-rem(40px);
 }

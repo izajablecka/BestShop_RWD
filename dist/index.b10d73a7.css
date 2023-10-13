@@ -247,7 +247,7 @@ html, body {
   align-items: center;
   width: 100%;
   display: flex;
-  box-shadow: 0 3px 6px #00000029;
+  box-shadow: 0 .1875rem .375rem #00000029;
 }
 
 .header__inner {
@@ -272,7 +272,7 @@ html, body {
 
 .intro__hdl {
   color: #000;
-  margin-top: 8.125rem;
+  margin-top: 6.25rem;
   margin-bottom: 0;
   font-family: Raleway, sans-serif;
   font-size: 3.0625rem;
@@ -283,11 +283,13 @@ html, body {
   color: #000;
   margin-top: 1.25rem;
   margin-bottom: 0;
+  padding-inline: 3.125rem;
   font-family: Open Sans, sans-serif;
   font-weight: 400;
 }
 
 .intro__btn {
+  background-color: #08a6e4;
   margin-top: 3.125rem;
   margin-bottom: 0;
   padding: 1.375rem 5.75rem 1.4375rem;
@@ -297,13 +299,12 @@ html, body {
 .intro__img {
   background-position: center;
   background-size: cover;
-  max-width: 100%;
+  width: 100%;
   margin-top: 3.1875rem;
 }
 
 .btn {
   color: #fff;
-  background-color: #08a6e4;
   border-radius: 2.5rem;
   font-family: Open Sans, sans-serif;
   font-weight: 700;
