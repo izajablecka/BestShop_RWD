@@ -1,5 +1,10 @@
 const formRefs = document.querySelector('.calc__form');
-const itemRefs = document.querySelectorAll('.list__item');
+const selectRef = document.getElementById('package');
+const dropdownRef = document.querySelector('.calc__select');
+const itemsRefs = [...document.querySelectorAll('.select__dropdown li')];
+
+console.log(dropdownRef);
+
 
 formRefs.addEventListener("input", (event) => {
     const target = event.target;
@@ -25,4 +30,20 @@ formRefs.addEventListener("input", (event) => {
     } else if (target.id === 'terminal') {
         terminal.classList.toggle('open');
     }
+});
+
+selectRef.addEventListener('click', () => {
+    dropdownRef.classList.toggle('open');
+    console.log(dropdownRef)
+
+}, false);
+
+itemsRefs.forEach((item) => {
+
+    item.addEventListener('click', (event) => {
+        const target = event.target;
+        console.log(item)
+        document.querySelector("[data-id='package']").classList.toggle('open');
+
+    }, true)
 })
