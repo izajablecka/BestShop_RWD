@@ -1105,6 +1105,10 @@ html, body {
   display: flex;
 }
 
+.calc__summary ul {
+  margin-top: 0;
+}
+
 @media (width <= 1024px) {
   .calc__summary {
     width: 100%;
@@ -1131,8 +1135,8 @@ html, body {
   background-color: #f7f7f7;
   align-self: flex-end;
   width: 50%;
-  margin-top: 22px;
-  padding: 8px 20px;
+  margin-top: 1.375rem;
+  padding: .5rem 1.25rem;
 }
 
 .calc__summary .summary__total .total__price {
@@ -1142,8 +1146,8 @@ html, body {
 
 .calc__summary .list__item {
   background-color: #55dfb4;
-  margin-bottom: 8px;
-  padding: 6px 20px;
+  margin-bottom: .5rem;
+  padding: .375rem 1.25rem;
 }
 
 .calc__summary .list__item .item__price {
